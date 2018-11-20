@@ -4,7 +4,7 @@
       "namespace":"HelloSubWorld",
       "author":"plentymarkets GmbH",
       "pluginIcon":"icon_xs.png",
-      "authorIcon":"icon_xs.png",
+      "authorIcon":"icon_author_xs.png",
       "type":"template",
       "serviceProvider":"HelloSubscriptionWorld\\Providers\\HelloSubWorldServiceProvider",
       "version": "0.0.1"
