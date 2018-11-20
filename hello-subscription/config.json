@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1.0,
+  "menu": {
+    "Config.helloSubSettings": {
+      "label": "Config.helloSubSettings",
+      "fullWidth": true,
+      "formFields": {
+        "global.headerLogo": {
+          "type": "inputFile",
+          "required": true,
+          "label": "Config.HeaderLogoLabel",
+          "options": {
+            "tooltip": "Config.HeaderLogoTooltip",
+             "defaultValue": ""
+          }
+        }
+      }
+    }
+  }
+}

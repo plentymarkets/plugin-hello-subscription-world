@@ -1,0 +1,9 @@
+{
+      "name":"HelloSubWorld",
+      "description":"A Plugin which provides subscription best practices",
+      "namespace":"HelloSubWorld",
+      "author":"plentymarkets GmbH",
+      "type":"template",
+      "serviceProvider":"HelloSubscriptionWorld\\Providers\\HelloSubWorldServiceProvider",
+      "version": "0.0.1"
+}
