@@ -1,7 +1,7 @@
 {
   "marketplaceName"   : {"de":"Hallo Subscription Welt","en":"Hello subscription world"},
   "license"           : "GPL",
-  "price"             : 0,
+  "price"             : 0.00,
   "shortDescription"  : {"de":"plentymarkets plugin subscription example","en":"plentymarkets plugin subscription example"},
   "categories"        : ["3518"],
   "keywords"          : ["plugins", "template"],
